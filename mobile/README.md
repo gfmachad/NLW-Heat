@@ -5,8 +5,6 @@ Project developed during the Next Level Week - NLW Heat, provided by @Rocketseat
 
 This project was developed using the following technologies:
 
-
-
 - [React-Native](https://reactnative.dev/)
 - [Expo](https://expo.dev/)
 - [React](https://reactjs.org)
