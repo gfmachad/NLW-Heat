@@ -8,5 +8,5 @@ This project was developed using the following technologies:
 - [Noje](https://nodejs.org/)
 - [React](https://reactjs.org)
 - [React-Native](https://reactnative.dev/)
-- [Elixer](https://elixir-lang.org/)
+- [Elixir](https://elixir-lang.org/)
 - [TypeScript](https://www.typescriptlang.org/)
